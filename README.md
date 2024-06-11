@@ -35,7 +35,7 @@ Topics:
     - Handling multi-index DataFrames
 
 # Session 3: Data Analysis and Manipulation
-Duration: 6 hours
+Duration: 
 
 Topics:
 
