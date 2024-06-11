@@ -2,7 +2,7 @@
 A 36-hour training challenge on Pandas
 
 # Session 1: Introduction to Pandas
-Duration: 6 hours
+Duration: 
 
 Topics:
 
@@ -19,7 +19,7 @@ Topics:
     - DataFrame attributes and methods
 
 # Session 2: Data Cleaning and Preparation
-Duration: 6 hours
+Duration: 
 
 Topics:
 
@@ -50,7 +50,7 @@ Topics:
     - Using pivot_table method
 
 # Session 4: Advanced Data Analysis
-Duration: 6 hours
+Duration: 
 
 Topics:
 
@@ -65,7 +65,7 @@ Topics:
     - Working with chunked data
 
 # Session 5: Data Visualization
-Duration: 6 hours
+Duration: 
 
 Topics:
 
@@ -80,7 +80,7 @@ Topics:
     - Creating interactive plots
 
 # Session 6: Project and Real-World Applications
-Duration: 6 hours
+Duration: 
 
 Topics:
 
