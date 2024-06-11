@@ -10,11 +10,11 @@ Topics:
     - What is Pandas?
     - Installation and setup
 2. Data Structures
-    - Series
-    - DataFrame
-3. Basic Operations
+    - Series 
+    - DataFrame 
+3. Basic Operations 
     - Creating DataFrames
-    - Reading data from various sources (CSV, Excel, SQL, etc.)
+    - Reading data from various sources (CSV, Excel, SQL, etc.) 
     - Data selection and filtering
     - DataFrame attributes and methods
 
@@ -92,3 +92,31 @@ Topics:
 2. Case Studies
     - Discuss real-world applications of Pandas
     - Review case studies
+
+# SKILLS OVERVIEW
+
+1. Series—Understanding what a series is and how we can retrieve selected values from a series.
+
+2. Data frames—Constructing data frames and retrieving selected values from a data frame.
+
+3. Import and export—Reading and writing files in different formats, including CSV and JSON.
+
+4. Indexes—Setting and retrieving indexes and multi-indexes.
+
+5. Cleaning—Turning messy, real-world data into a form we can use more easily: for example, identifying duplicates, handling missing values, and removing unnecessary and incorrect data.
+
+6. Grouping, joining, and sorting—The core of much pandas functionality: grouping data, joining multiple data frames, and sorting by both indexes and values. These topics are so important that two chapters address them.
+
+7. Advanced grouping, joining, and sorting—Deeper examination of the techniques introduced in chapter 6.
+
+8. Project—Completing a large project based on the Python developer survey.
+
+9. Strings—Working with text data from within pandas.
+
+10. Dates—Working with date and time data from within pandas.
+
+11. Visualization—Plotting both via the pandas API and using the Seaborn module.
+
+12. Performance—Optimizing the speed and memory usage of our data.
+
+13. Final project—Completing a large project examining American colleges and universities.
