@@ -115,11 +115,12 @@ Topics:
 
 10. Dates—Working with date and time data from within pandas.
 
+11. Visualization—Plotting both via the pandas API and using the Seaborn module.
+
+12. Performance—Optimizing the speed and memory usage of our data.
+
+13. Final project—Completing a large project examining American colleges and universities.
+
+
 # REFERENCE
 https://www.amazon.com/Pandas-Workout-Reuven-Lerner/dp/1617299723
-
-12. Visualization—Plotting both via the pandas API and using the Seaborn module.
-
-13. Performance—Optimizing the speed and memory usage of our data.
-
-14. Final project—Completing a large project examining American colleges and universities.
