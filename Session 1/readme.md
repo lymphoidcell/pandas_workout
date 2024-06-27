@@ -42,9 +42,4 @@ The study case will include:
 - Passenger frequency
 - Long, medium, and short taxi rides
 
-## Usage
 
-To run the notebook, you will need to have Jupyter Notebook installed. If you do not have it installed, you can install it using pip:
-
-```bash
-pip install notebook
